@@ -36,9 +36,11 @@ URL: https://github.com/SherlockHsu/Linux-Server-Matlab-Manual
 
 ## 二、对MATLAB项目进行预处理
 1. 将figure相关操作分离
+
     由于Linux服务器没有GUI界面，fig文件无法生成，figure相关操作需要在本地进行。
 
 2. 在MATLAB脚本中添加save命令
+
     为了在本地处理数据，可用save命令将仿真结果存入mat文件，并用scp命令传回本地。（scp命令将在后文介绍）
 
     ![](picture/preset.png)
