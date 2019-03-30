@@ -3,7 +3,8 @@ LInux-Server-Matlab使用手册
 
 Date: 2019.3.30     
 Author: Xu Yi   
-Version: 1.0
+Version: 1.0    
+URL: https://github.com/SherlockHsu/Linux-Server-Matlab-Manual
 
 ## 目录
 
