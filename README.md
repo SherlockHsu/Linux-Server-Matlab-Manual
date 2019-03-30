@@ -1,4 +1,4 @@
-LInux-Server-Matlab使用手册
+Linux-Server-Matlab使用手册
 ==================================================
 
 Date: 2019.3.30     
