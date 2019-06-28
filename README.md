@@ -56,7 +56,7 @@ URL: https://github.com/SherlockHsu/Linux-Server-Matlab-Manual
     > scp -r [simulation_folder] simulator@10.129.4.22:~/[user_name]
 
     例：
-    > cd C:\Users\SherlockHsu\OneDrive\Current_Work
+    > scp -r Current_Work simulator@10.129.4.22:~/xuyi
 
     ![](picture/upload.png)
 
